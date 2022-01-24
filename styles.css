@@ -1,0 +1,25 @@
+input{
+    font-size: 500%;
+    width: 100%;
+    box-sizing: border-box; /* stops it from being wider than other elements */
+    text-align: center;
+}
+
+.output{
+    width: 100%;
+    font-size: 1500%;
+    text-align: center;
+    margin-top: 10%;
+    
+}
+
+button{
+    font-size: 500%;
+    width: 100%;
+}
+
+#graph{
+    background-color: red;
+    width: 0;
+    height: 10px;
+}
